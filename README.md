@@ -1,7 +1,7 @@
 # MVSEP-MDX23 Colab 2.4
 Adaptation de l'algorithme MVSep-MDX23 pour Colab, en français et avec quelques ajustements :
 
-[MVSEP-MDX23-Colab_v2.4_FR](https://colab.research.google.com/github/GiGiDKR/MVSEP-MDX23-Colab_v2.4_FR/blob/v2.4/MVSep-MDX23-Colab.ipynb)
+[MVSEP-MDX23-Colab_v2.4_FR](https://colab.research.google.com/github/GiGiDKR/MVSEP-MDX23-Colab_v2.4_FR/blob/v2.4/MVSep-MDX23-Colab-French.ipynb)
 
 Changements récents :
 <font size=2>
