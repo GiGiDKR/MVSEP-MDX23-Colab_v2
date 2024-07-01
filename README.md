@@ -6,7 +6,7 @@ Adaptation de l'algorithme MVSep-MDX23 pour Colab, en français et avec quelques
 Changements récents :
 <font size=2>
 
-**v2.4**
+[**v2.4**](https://github.com/jarredou/MVSEP-MDX23-Colab_v2/tree/v2.4)
 * Modèles BS-Roformer de viperx ajoutés
 * Modèle MDX-InstHQ4 ajouté en option
 * Sortie FLAC
